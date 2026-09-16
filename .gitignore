@@ -1,0 +1,54 @@
+# ==========================================
+# Unity Standard Ignores
+# ==========================================
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+*.log
+
+# ==========================================
+# Memory Captures & Recordings (Can grow massive)
+# ==========================================
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# ==========================================
+# Asset Store Tools & Plugins
+# ==========================================
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# ==========================================
+# IDE and OS Specific Ignores
+# ==========================================
+# Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+
+# JetBrains Rider
+*.DotSettings.user
+.idea/
+
+# Gradle & Android builds
+.gradle/
+ExportedObj/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# 3D Editor backups
+# ==========================================
+*.blend1
+*.blend1.meta

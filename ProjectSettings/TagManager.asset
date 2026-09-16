@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - Enemy
+  - Void
+  - TutPortal
+  - Canon1
+  - Canon2
+  - Canon3
+  - Obstacle
+  - Target
+  - Canon4
+  - Canon5
+  - Missile
+  - Boss
+  - WeakPoint
+  - Health
+  - MainPortal
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Weapon
+  - Water
+  - UI
+  - ViewPort
+  - Obstacle
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
