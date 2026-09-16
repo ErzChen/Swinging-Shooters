@@ -4,6 +4,14 @@ A fast-paced first-person shooter built around fluid grapple-and-swing movement.
 
 ---
 
+## Play
+
+Designed for computers and laptops
+
+- https://erzchen.itch.io/swinging-shooters
+
+---
+
 ## Controls
 
 | Action | Input |
@@ -17,6 +25,7 @@ A fast-paced first-person shooter built around fluid grapple-and-swing movement.
 | Swing | Hold Q |
 | Equip Pistol | 1 |
 | Equip Rifle | 2 |
+| Pause Game| P |
 
 ---
 
@@ -44,6 +53,11 @@ All assets sourced from the [Unity Asset Store](https://assetstore.unity.com/).
 | Environment Assets | Blue Olive Studio |
 | Bridges | EmacEArt |
 | Rockets | benjathemaker |
+| Outline | Chris Nolet |
+| Background Music | Alkakrab |
+| Sci-fi Guns SFX Pack | Mikael Vanninen |
+| Lazer Weapon Sound Effects | Daniel SoundsGood |
+| RPG Essentials Sound Effects | leohpaz |
 
 ---
 
